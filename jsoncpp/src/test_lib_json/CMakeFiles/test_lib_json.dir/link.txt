@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/test_lib_json.dir/jsontest.cpp.o CMakeFiles/test_lib_json.dir/main.cpp.o  -o ../../test_lib_json -rdynamic ../lib_json/libjson_cpp.so.0.5.0 -Wl,-rpath,/home/junzhez/git/c++/jsoncpp/src/lib_json 
